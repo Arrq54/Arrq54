@@ -14,60 +14,60 @@
 
 <div style="display: flex; justify-content: center">
 <a href="https://react.dev/">
-<img style="width: 30px; padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img style="width: 35px; padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </a>
 
 
 
 <a href="https://www.typescriptlang.org/">
-<img style="width: 30px; padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img style="width: 35px; padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 </a>
 
 
 
 <a href="">
-<img style="width: 30px; padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img style="width: 35px; padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
 </a>
 
 
 <a href="https://mui.com/">
-<img style="width: 30px; padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" />
+<img style="width: 35px; padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" />
 </a>
 
 
 
 <a href="https://www.java.com/">
-<img style="width: 30px; padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img style="width: 35px; padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </a>
 
 
 
 <a href="https://developer.android.com/studio">
-<img style="width: 30px; padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+<img style="width: 35px; padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 </a>
 
 
 
 <a href="https://nodejs.org/en">
-<img style="width: 30px; padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+<img style="width: 35px; padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
 </a>
 
 
 
 
 <a href="https://www.mongodb.com/">
-<img style="width: 30px; padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+<img style="width: 35px; padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
 </a>
 
 
 
 
 <a href="https://git-scm.com/">
-<img style="width: 30px; padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+<img style="width: 35px; padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 </a>
 <a href="https://threejs.org/">
-<img  style="width: 30px; padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" />
+<img  style="width: 35px; padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" />
 </a>
 
 
