@@ -3,11 +3,10 @@
 
 <p style="text-align: center">My name is Arkadiusz and I'm a 17 years old developer from Kraków, Poland. Coding is my passion, especially web based apps. With every project I do, I try my best to improve and deliver well working and looking stuff. </p>
 
-<h6 style="text-align: center; font-size: 20px;">Contact me via email:</h6> 
-<h6 style="text-align: center; font-size: 20px;">arkadiusz.wojdyla05@gmail.com</h6> 
+<h6 style="text-align: center; font-size: 15px;">Contact me via email:</h6> 
 
 
-
+###### **arkadiusz.wojdyla05@gmail.com**
 
 
 
