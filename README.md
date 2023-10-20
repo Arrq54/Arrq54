@@ -1,7 +1,7 @@
 # Hi 👋 I'm glad you're here!
 **`Aspiring to be full-stack developer (currently looking for a job)`**
 
-<p style="text-align: center">My name is Arkadiusz and I'm a 17 years old developer from Kraków, Poland. Coding is my passion, especially web based apps. With every project I do, I try my best to improve and deliver well working and looking stuff. </p>
+<p style="text-align: center">My name is Arkadiusz and I'm a 18 years old developer from Kraków, Poland. Coding is my passion, especially web based apps. With every project I do, I try my best to improve and deliver well working and looking stuff. </p>
 
 <h6 style="text-align: center; font-size: 15px;">Contact me via email:</h6> 
 
